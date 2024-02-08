@@ -24,9 +24,7 @@ This plugin lets you convert a local path to a file url link that can be used to
    or `[folder](file:///%5C%5Cnetwork/folder/)` in this example)
 
 ## How to change the hotkey 
-You can change the hotkey combination in Obsidian settings under Hotkeys. Look for `File path to URI`.
-
-![hotkeys](https://raw.githubusercontent.com/MichalBures/obsidian-file-path-to-uri/master/hotkeys.png)
+You can change the hotkey combination in Obsidian settings under Hotkeys.
 
 ## Transforms
 
