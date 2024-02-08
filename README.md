@@ -1,8 +1,5 @@
 # File path to URI (an Obsidian.md plugin)
 
-[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/illa2020conf/obsidian-file-path-to-uri)](https://github.com/illa2020conf/obsidian-file-path-to-uri/releases/latest)
-[![GitHub All Releases](https://img.shields.io/github/downloads/illa2020conf/obsidian-file-path-to-uri/total)](https://github.com/illa2020conf/obsidian-file-path-to-uri/releases)
-
 This plugin lets you convert a local path to a file url link that can be used to link to files or folders that are located outside of your Obsidian vault.
 
 ![demo](https://raw.githubusercontent.com/MichalBures/obsidian-file-path-to-uri/master/demo.gif)
