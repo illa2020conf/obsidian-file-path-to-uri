@@ -41,4 +41,4 @@ Strips the surrounding whitespace from the selection but double quotation marks 
 
 ## Credits
 
-The project is forked from [https://github.com/agathauy/wikilinks-to-mdlinks-obsidian](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian)
+The project is forked from [https://github.com/MichalBures/obsidian-file-path-to-uri](https://github.com/MichalBures/obsidian-file-path-to-uri)
